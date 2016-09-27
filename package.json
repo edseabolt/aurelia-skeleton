@@ -8,6 +8,10 @@
     "serve:dev": "webpack-dev-server --hot --inline --progress --devtool inline-source-map -d"
   },
   "author": "edseabolt@gmail.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edseabolt/aurelia-skeleton"
+	},
   "license": "MIT",
   "dependencies": {
     "aurelia-bootstrapper-webpack": "^1.0.0",
